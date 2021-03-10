@@ -1,3 +1,3 @@
-start the shell
+echo "start the shell"
 date
 cal
